@@ -1,0 +1,18 @@
+---
+object: set
+id: 1b5e95bd-4947-4991-8d7d-b770d6b2aaff
+code: pbfz
+name: Battle for Zendikar Promos
+uri: https://api.scryfall.com/sets/1b5e95bd-4947-4991-8d7d-b770d6b2aaff
+scryfall_uri: https://scryfall.com/sets/pbfz
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apbfz&unique=prints
+released_at: '2015-10-02'
+set_type: promo
+card_count: 89
+parent_set_code: bfz
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: bfz
+block: Battle for Zendikar
+icon_svg_uri: https://svgs.scryfall.io/sets/bfz.svg?1694404800

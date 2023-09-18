@@ -1,0 +1,117 @@
+---
+object: card
+id: 23a48f4a-96eb-47bd-9384-3bcc959a7c4b
+oracle_id: 390f1b56-264e-4336-83be-dc1fe79bfdcf
+multiverse_ids: []
+tcgplayer_id: 232094
+cardmarket_id: 537628
+name: Smoldering Marsh
+lang: en
+released_at: '2021-02-05'
+uri: https://api.scryfall.com/cards/23a48f4a-96eb-47bd-9384-3bcc959a7c4b
+scryfall_uri: https://scryfall.com/card/pbfz/247p/smoldering-marsh?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/3/23a48f4a-96eb-47bd-9384-3bcc959a7c4b.jpg?1612985000
+  normal: https://cards.scryfall.io/normal/front/2/3/23a48f4a-96eb-47bd-9384-3bcc959a7c4b.jpg?1612985000
+  large: https://cards.scryfall.io/large/front/2/3/23a48f4a-96eb-47bd-9384-3bcc959a7c4b.jpg?1612985000
+  png: https://cards.scryfall.io/png/front/2/3/23a48f4a-96eb-47bd-9384-3bcc959a7c4b.png?1612985000
+  art_crop: https://cards.scryfall.io/art_crop/front/2/3/23a48f4a-96eb-47bd-9384-3bcc959a7c4b.jpg?1612985000
+  border_crop: https://cards.scryfall.io/border_crop/front/2/3/23a48f4a-96eb-47bd-9384-3bcc959a7c4b.jpg?1612985000
+mana_cost: ''
+cmc: 0.0
+type_line: Land — Swamp Mountain
+oracle_text: |-
+  ({T}: Add {B} or {R}.)
+  Smoldering Marsh enters the battlefield tapped unless you control two or more basic lands.
+colors: []
+color_identity:
+- B
+- R
+keywords: []
+produced_mana:
+- B
+- R
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 1b5e95bd-4947-4991-8d7d-b770d6b2aaff
+set: pbfz
+set_name: Battle for Zendikar Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/1b5e95bd-4947-4991-8d7d-b770d6b2aaff
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apbfz&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pbfz?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/23a48f4a-96eb-47bd-9384-3bcc959a7c4b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A390f1b56-264e-4336-83be-dc1fe79bfdcf&unique=prints
+collector_number: 247p
+digital: false
+rarity: rare
+flavor_text: The continent of Guul Draz is a geothermal swampland reeking of heat
+  and decay.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Adam Paquette
+artist_ids:
+- 89023dad-e6c0-41e0-83fb-eb2bfbbdc3f2
+illustration_id: 887494af-97e5-4680-a140-5b6f567679fa
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- promopack
+- stamped
+edhrec_rank: 127
+penny_rank: 983
+prices:
+  usd: '1.82'
+  usd_foil: '3.57'
+  usd_etched: 
+  eur: '1.25'
+  eur_foil: '2.99'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Smoldering+Marsh&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Smoldering+Marsh&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Smoldering+Marsh
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/232094?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Smoldering+Marsh&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Smoldering+Marsh&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

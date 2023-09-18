@@ -1,0 +1,127 @@
+---
+object: card
+id: 1b87c785-d06d-4965-8637-0444ee7fea90
+oracle_id: 3159d289-b822-4657-919a-d712623e622e
+multiverse_ids: []
+tcgplayer_id: 104827
+cardmarket_id: 284433
+name: Blight Herder
+lang: en
+released_at: '2015-10-02'
+uri: https://api.scryfall.com/cards/1b87c785-d06d-4965-8637-0444ee7fea90
+scryfall_uri: https://scryfall.com/card/pbfz/2/blight-herder?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/b/1b87c785-d06d-4965-8637-0444ee7fea90.jpg?1562132513
+  normal: https://cards.scryfall.io/normal/front/1/b/1b87c785-d06d-4965-8637-0444ee7fea90.jpg?1562132513
+  large: https://cards.scryfall.io/large/front/1/b/1b87c785-d06d-4965-8637-0444ee7fea90.jpg?1562132513
+  png: https://cards.scryfall.io/png/front/1/b/1b87c785-d06d-4965-8637-0444ee7fea90.png?1562132513
+  art_crop: https://cards.scryfall.io/art_crop/front/1/b/1b87c785-d06d-4965-8637-0444ee7fea90.jpg?1562132513
+  border_crop: https://cards.scryfall.io/border_crop/front/1/b/1b87c785-d06d-4965-8637-0444ee7fea90.jpg?1562132513
+mana_cost: "{5}"
+cmc: 5.0
+type_line: Creature — Eldrazi Processor
+oracle_text: 'When you cast this spell, you may put two cards your opponents own from
+  exile into their owners'' graveyards. If you do, create three 1/1 colorless Eldrazi
+  Scion creature tokens. They have "Sacrifice this creature: Add {C}."'
+power: '4'
+toughness: '5'
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- C
+all_parts:
+- object: related_card
+  id: 5a5c74d5-b219-4514-8fd6-62705459422c
+  component: token
+  name: Eldrazi Scion
+  type_line: Token Creature — Eldrazi Scion
+  uri: https://api.scryfall.com/cards/5a5c74d5-b219-4514-8fd6-62705459422c
+- object: related_card
+  id: b2758c4f-8d3b-41f3-84f7-9d8d5c301b93
+  component: combo_piece
+  name: Blight Herder
+  type_line: Creature — Eldrazi Processor
+  uri: https://api.scryfall.com/cards/b2758c4f-8d3b-41f3-84f7-9d8d5c301b93
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: false
+variation: false
+set_id: 1b5e95bd-4947-4991-8d7d-b770d6b2aaff
+set: pbfz
+set_name: Battle for Zendikar Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/1b5e95bd-4947-4991-8d7d-b770d6b2aaff
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apbfz&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pbfz?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/1b87c785-d06d-4965-8637-0444ee7fea90/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3159d289-b822-4657-919a-d712623e622e&unique=prints
+collector_number: '2'
+digital: false
+rarity: rare
+watermark: set
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jaime Jones
+artist_ids:
+- 92f6c2c1-fa57-4b52-99c4-0fd866c13dc9
+illustration_id: 9e90e1b5-60fe-492f-9d8b-86753b37d011
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- datestamped
+- release
+edhrec_rank: 8587
+penny_rank: 5940
+prices:
+  usd: 
+  usd_foil: '0.35'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.10'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Blight+Herder&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Blight+Herder&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Blight+Herder
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/104827?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blight+Herder&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blight+Herder&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,132 @@
+---
+object: card
+id: 79d8dc86-c027-4852-9266-72316b6c2623
+oracle_id: a20edb8d-219d-4d0f-8346-0c31064eb49f
+multiverse_ids: []
+tcgplayer_id: 105907
+cardmarket_id: 285036
+name: Brood Butcher
+lang: en
+released_at: '2015-10-02'
+uri: https://api.scryfall.com/cards/79d8dc86-c027-4852-9266-72316b6c2623
+scryfall_uri: https://scryfall.com/card/pbfz/199s/brood-butcher?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/9/79d8dc86-c027-4852-9266-72316b6c2623.jpg?1562133013
+  normal: https://cards.scryfall.io/normal/front/7/9/79d8dc86-c027-4852-9266-72316b6c2623.jpg?1562133013
+  large: https://cards.scryfall.io/large/front/7/9/79d8dc86-c027-4852-9266-72316b6c2623.jpg?1562133013
+  png: https://cards.scryfall.io/png/front/7/9/79d8dc86-c027-4852-9266-72316b6c2623.png?1562133013
+  art_crop: https://cards.scryfall.io/art_crop/front/7/9/79d8dc86-c027-4852-9266-72316b6c2623.jpg?1562133013
+  border_crop: https://cards.scryfall.io/border_crop/front/7/9/79d8dc86-c027-4852-9266-72316b6c2623.jpg?1562133013
+mana_cost: "{3}{B}{G}"
+cmc: 5.0
+type_line: Creature — Eldrazi Drone
+oracle_text: |-
+  Devoid (This card has no color.)
+  When Brood Butcher enters the battlefield, create a 1/1 colorless Eldrazi Scion creature token. It has "Sacrifice this creature: Add {C}."
+  {B}{G}, Sacrifice a creature: Target creature gets -2/-2 until end of turn.
+power: '3'
+toughness: '3'
+colors: []
+color_identity:
+- B
+- G
+keywords:
+- Devoid
+produced_mana:
+- C
+all_parts:
+- object: related_card
+  id: 5a5c74d5-b219-4514-8fd6-62705459422c
+  component: token
+  name: Eldrazi Scion
+  type_line: Token Creature — Eldrazi Scion
+  uri: https://api.scryfall.com/cards/5a5c74d5-b219-4514-8fd6-62705459422c
+- object: related_card
+  id: 79d8dc86-c027-4852-9266-72316b6c2623
+  component: combo_piece
+  name: Brood Butcher
+  type_line: Creature — Eldrazi Drone
+  uri: https://api.scryfall.com/cards/79d8dc86-c027-4852-9266-72316b6c2623
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: false
+variation: false
+set_id: 1b5e95bd-4947-4991-8d7d-b770d6b2aaff
+set: pbfz
+set_name: Battle for Zendikar Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/1b5e95bd-4947-4991-8d7d-b770d6b2aaff
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apbfz&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pbfz?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/79d8dc86-c027-4852-9266-72316b6c2623/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa20edb8d-219d-4d0f-8346-0c31064eb49f&unique=prints
+collector_number: 199s
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Daarken
+artist_ids:
+- e607a0d4-fc12-4c01-9e3f-501f5269b9cb
+illustration_id: f0856e7c-8333-4c62-b5bf-64d03aaf84bf
+border_color: black
+frame: '2015'
+frame_effects:
+- devoid
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- datestamped
+- prerelease
+edhrec_rank: 12653
+penny_rank: 8431
+prices:
+  usd: 
+  usd_foil: '0.55'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.10'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Brood+Butcher&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Brood+Butcher&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Brood+Butcher
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/105907?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Brood+Butcher&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Brood+Butcher&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

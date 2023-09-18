@@ -1,0 +1,111 @@
+---
+object: card
+id: 91ef023f-a22f-4a63-8856-17dc4c569f88
+oracle_id: cd3d79e9-c72e-4321-bca1-54505d51331a
+multiverse_ids: []
+tcgplayer_id: 105909
+cardmarket_id: 285006
+name: Conduit of Ruin
+lang: en
+released_at: '2015-10-02'
+uri: https://api.scryfall.com/cards/91ef023f-a22f-4a63-8856-17dc4c569f88
+scryfall_uri: https://scryfall.com/card/pbfz/4s/conduit-of-ruin?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/1/91ef023f-a22f-4a63-8856-17dc4c569f88.jpg?1562133413
+  normal: https://cards.scryfall.io/normal/front/9/1/91ef023f-a22f-4a63-8856-17dc4c569f88.jpg?1562133413
+  large: https://cards.scryfall.io/large/front/9/1/91ef023f-a22f-4a63-8856-17dc4c569f88.jpg?1562133413
+  png: https://cards.scryfall.io/png/front/9/1/91ef023f-a22f-4a63-8856-17dc4c569f88.png?1562133413
+  art_crop: https://cards.scryfall.io/art_crop/front/9/1/91ef023f-a22f-4a63-8856-17dc4c569f88.jpg?1562133413
+  border_crop: https://cards.scryfall.io/border_crop/front/9/1/91ef023f-a22f-4a63-8856-17dc4c569f88.jpg?1562133413
+mana_cost: "{6}"
+cmc: 6.0
+type_line: Creature — Eldrazi
+oracle_text: |-
+  When you cast this spell, you may search your library for a colorless creature card with mana value 7 or greater, reveal it, then shuffle and put that card on top.
+  The first creature spell you cast each turn costs {2} less to cast.
+power: '5'
+toughness: '5'
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: false
+variation: false
+set_id: 1b5e95bd-4947-4991-8d7d-b770d6b2aaff
+set: pbfz
+set_name: Battle for Zendikar Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/1b5e95bd-4947-4991-8d7d-b770d6b2aaff
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apbfz&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pbfz?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/91ef023f-a22f-4a63-8856-17dc4c569f88/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acd3d79e9-c72e-4321-bca1-54505d51331a&unique=prints
+collector_number: 4s
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Slawomir Maniak
+artist_ids:
+- d887bc66-2779-416c-a1ff-d8720242063e
+illustration_id: 1faf34b2-2b85-466d-84f1-bc054c32c494
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- datestamped
+- prerelease
+edhrec_rank: 1867
+penny_rank: 2874
+prices:
+  usd: 
+  usd_foil: '14.46'
+  usd_etched: 
+  eur: 
+  eur_foil: '15.00'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Conduit+of+Ruin&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Conduit+of+Ruin&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Conduit+of+Ruin
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/105909?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Conduit+of+Ruin&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Conduit+of+Ruin&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
